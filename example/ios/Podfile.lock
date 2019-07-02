@@ -1,0 +1,29 @@
+PODS:
+  - aes_pkcs5 (0.0.1):
+    - CryptoSwift (~> 0.10.0)
+    - Flutter
+  - CryptoSwift (0.10.0)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - aes_pkcs5 (from `.symlinks/plugins/aes_pkcs5/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CryptoSwift
+
+EXTERNAL SOURCES:
+  aes_pkcs5:
+    :path: ".symlinks/plugins/aes_pkcs5/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  aes_pkcs5: 7f4563d19e7542b7efbe9bdd7c0a0754166ae7e7
+  CryptoSwift: 6c778d69282bed3b4e975ff97a79d074f20bb011
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+
+COCOAPODS: 1.5.3
