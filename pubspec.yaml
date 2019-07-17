@@ -1,8 +1,8 @@
 name: aes_pkcs5
 description: A new Flutter plugin.
 version: 0.0.1
-author: didiao
-homepage:
+author: didiao <59174@163.com>
+homepage: https://github.com/a4081675/aes_pkcs5
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
